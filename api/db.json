@@ -1,0 +1,47 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great Stream!",
+      "id": 1
+    },
+    {
+      "title": "My Stream",
+      "description": "Great Stream",
+      "id": 2
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 3
+    },
+    {
+      "title": "Hola",
+      "description": "Hola",
+      "id": 4
+    },
+    {
+      "title": "aaaaa",
+      "description": "aaaaaaaaaa",
+      "id": 5
+    },
+    {
+      "title": "e",
+      "description": "e",
+      "userId": "106385600480058583482",
+      "id": 8
+    },
+    {
+      "title": "Unexpected Behavior",
+      "description": "Didn't expect that!",
+      "userId": "106385600480058583482",
+      "id": 9
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "You should not see this on the form page!!!",
+      "userId": "106385600480058583482",
+      "id": 10
+    }
+  ]
+}
